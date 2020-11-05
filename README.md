@@ -8,12 +8,14 @@ The following is an outline of what we need to do, what is done and what is curr
 
 # TODO
 
-- Create Proposal
-- Finish Proposal
 - Design database
 - Implement Classes
 - Get the app to work on android
 
 # DOING
 
+- Complete Proposal
+
 # DONE
+
+- Create Proposal
